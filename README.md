@@ -1,17 +1,37 @@
-### Hi there 👋
+## 👋 Hi, I'm Chi-Kai!  
+🎓 **Master's Student in Computer Technology** | Hunan University  
+💡 **Focused on Cloud-Native Technologies & Kubernetes**  
 
-<!--
-**Chi-Kai/Chi-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 About Me  
+- 📍 Currently pursuing a Master's degree at **Hunan University (2023-2026)**  
+- 🚀 Active in **open-source communities**, contributing to projects like Higress and Shifu  
+- 🌱 **Interested in Kubernetes** and cloud-native ecosystems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Chi-Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chi-Kai)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🔧 Open-Source Projects  
+#### 🚀 Charon Gateway (Rust)  
+> A lightweight AI gateway for managing multiple LLM APIs efficiently  
+🔗 [GitHub Repository](https://github.com/Chi-Kai/charon)  
+- Built on **Cloudflare's Pingora framework**, extending its high-performance capabilities  
+- Implements **intelligent dynamic routing** based on real-time latency data  
+- Optimized with **AI response caching**, reducing API call costs and latency  
+- Fully **cloud-native**, supporting Docker and Kubernetes for scalable deployment  
+
+---
+
+### 🏗 Open-Source Contributions  
+- **[Higress](https://github.com/alibaba/higress)**  
+- **[Shifu](https://github.com/Edgenesis/shifu)** 
+
+---
+
+### 📬 Contact  
+📧 Email: chikai0307@gmail.com  
+🔗 GitHub: [Chi-Kai](https://github.com/Chi-Kai)  
+
+---
+
+✨ **Let's connect and explore cloud-native technologies together!** 🚀  
